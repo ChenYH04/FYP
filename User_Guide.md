@@ -31,6 +31,7 @@ budget allocation, and SHAP-based churn driver explanations — all within a sin
 
 The system accepts any CSV file containing the following required columns, 
 which can be obtained from FYP Datasets:
+
 | Column | Description |
 | `customerID` | Unique customer identifier |
 | `tenure` | Number of months the customer has been with the operator |
