@@ -1,0 +1,12 @@
+Software |	Version |	Role 
+Visual Studio Code |	1.125.1	| IDE for code editing
+Python |	3.11.2 |	Core development language
+Streamlit |	1.52.1 |	Dashboard UI and deployment
+Pandas |	2.3.3 |	Data loading, cleaning, transformation
+NumPy |	2.4.0 |	Array operations, transformation
+Scikit-learn |	1.8.0 |	Model training, preprocessing, evaluation
+Imbalanced-learn |	0.14.1 |	SMOTE oversampling
+Plotly |	6.6.0 |	Dashboard, charts
+Matplotlib |	3.10.8 |	EDA plots, confusion matrix
+Seaborn |	0.13.2 |	Heatmaps, distribution plots
+shap |	0.51.0 |	Result interpretation
