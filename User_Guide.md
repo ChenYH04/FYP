@@ -49,10 +49,15 @@ Additional columns (e.g., contract type, internet service, tech support) are aut
 All system controls are located in the left sidebar and update the dashboard in real time without retraining.
 
 | Control | Description |
+
 | **Model Selection** | Toggle between Random Forest (higher performance) and Logistic Regression (higher interpretability) |
+
 | **High Risk Threshold** | Churn probability above which a customer is classified as high risk (default: 0.70) |
+
 | **Medium Risk Threshold** | Churn probability above which a customer is classified as medium risk (default: 0.40) |
+
 | **Retention Budget ($)** | Total retention spend available for allocation across customer segments |
+
 | **Display Options** | Displays model functions such as high-risk table, financial dashboard, and SHAP explanations (default: all ticked) |
 
 ### 5.2 Uploading Data
