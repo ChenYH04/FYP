@@ -117,7 +117,7 @@ The Evaluation panel displays model performance metrics computed on the held-out
 
 For Logistic Regression, a 5-fold cross-validated AUC is also displayed, providing a more statistically reliable performance estimate than the single-split metrics.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 6. Recommended Testing Walkthrough
 
@@ -135,7 +135,7 @@ For moderator verification, the following sequence is recommended:
 10. Switch model to **Logistic Regression** and confirm all panels update consistently
 11. Download the predictions CSV and verify the file contains the correct columns and format
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 7. Troubleshooting
 
